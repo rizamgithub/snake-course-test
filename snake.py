@@ -17,7 +17,7 @@ wn.tracer(0) # Turns off the screen updates
 # Snake head
 head = turtle.Turtle()
 head.speed(0)
-head.shape("square")
+head.shape("circle")
 head.color("green")
 head.penup()
 head.goto(0,0)
